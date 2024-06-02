@@ -10,7 +10,7 @@
            revision="pie" />
 
   <!-- General -->
-  <project path="art" name="android_art" remote="havoc" />
+  <project path="art" name="android_art" remote="los" />
   <project path="bionic" name="android_bionic" remote="havoc" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="havoc" />
 
